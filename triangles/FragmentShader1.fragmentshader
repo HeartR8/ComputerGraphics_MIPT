@@ -1,0 +1,12 @@
+#version 330 core
+
+// Ouput
+out vec4 color;
+
+void main()
+{
+
+	// Blue
+	color = vec4(0.0, 0.0, 1.0, 0.8);
+
+}
